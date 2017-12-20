@@ -94,6 +94,7 @@ public class ChristmasTree {
     		rob.penDown();
     		for(int i = 0; i < 5; i++);
     		rob.move(20);
+    		rob.turn(144);
     		
     	
    
